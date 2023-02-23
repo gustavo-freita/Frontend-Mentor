@@ -14,7 +14,7 @@
 
 .container .content {
     display: flex;
-    height: 70%;
+    height: 65%;
 }
 
 .container .content .first__part {
@@ -26,8 +26,17 @@
     width: 300px;
 }
 
-.content .first__part h1 {
+.content .first__part .position {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
     margin-top: 10px;
+}
+
+.content .first__part h1 {
+    color: #fff;
+    margin-top: 30px;
     font-size: 20px;
     opacity: 0.5;
 }
@@ -46,11 +55,27 @@
 }
 
 .content .first__part .result .first__result {
+    color: #fff;
     font-size: 70px;
     font-weight: 700;
 }
 
 .content .first__part .result .second__resolt {
+    color: #fff;
     font-size: 15px;
     opacity: 0.5;
+}
+
+.content .first__part h2 {
+    color: #fff;
+    font-size: 35px;
+    margin-bottom: 15px; 
+}
+
+.content .first__part .descriptive {
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+    opacity: 0.5;
+    width: 236px;
 }
