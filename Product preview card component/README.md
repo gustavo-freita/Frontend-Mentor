@@ -1,7 +1,7 @@
 # Frontend Mentor - Product preview card component
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=SUBLIMETEXT3&message=IDE&color=blue&style=for-the-badge&logo=SUBLIMETEXT3"/>
+  <img src="https://img.shields.io/static/v1?label=Visual Studio Code&message=IDE&color=blue&style=for-the-badge&logo=VSCODE"/>
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
